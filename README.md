@@ -1,2 +1,3 @@
-# 深圳市筑岩科技有限公司
-网站完善中 敬请关注
+# SHENZHEN ZHUYAN TECHNOLOGY CO.,LTD
+# COMING SOON
+# Product：Haier Electronics、Casarte Electric Appliances、Vighi Security Doors from Italy、Nobilia Cabinet from Germany
