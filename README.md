@@ -1,1 +1,28 @@
-1
+<p align="center">
+<img border="0" src="README_files/2025LOGO.png" width="120" height="120"></p><p align="center">　</p>
+<p align="center"><b><font size="6" face="BIZ UDPGothic">SHENZHEN ZHUYAN 
+TECHNOLOGY CO.,LTD</font></b></p>
+<p align="center">　</p>
+<p align="center"><font size="7" face="BIZ UDPGothic"><br>
+<b><font color="#FF0000">COMING SOON</font></b></font></p>
+<p align="center">　</p>
+<p align="center">　</p>
+<p align="center"><font face="BIZ UDPGothic"><br>
+Product</font></p>
+<p align="center"><font face="BIZ UDPGothic">Haier Electric Appliances</font></p>
+<p align="center">
+<img border="0" src="README_files/haier.png" width="101" height="28"></p><p align="center">　</p>
+<p align="center"><font face="BIZ UDPGothic">Casarte Electric Appliances</font></p>
+<p align="center">
+<img border="0" src="README_files/csd.png" width="111" height="62"></p><p align="center">　</p>
+<p align="center"><font face="BIZ UDPGothic">Vighi Security Doors from Italy</font></p>
+<p align="center">
+<img width="115" height="48" alt="Vighi" src="https://github.com/user-attachments/assets/e84cdcaf-444e-4a1c-b1be-558df8f87dff" /><p align="center">　</p>
+<p align="center"><font face="BIZ UDPGothic">Nobilia Cabinet from Germany</font></p>
+<p align="center">
+<img border="0" src="README_files/Nobilia_Logo.png" width="103" height="18"></p><p align="center">　</p>
+<p align="center"><font face="BIZ UDPGothic">Stainless steel cabinets from China</font></p>
+<p align="center">
+<img border="0" src="README_files/Kulitat_logo.png" width="100" height="21"></p><p align="center">　</p>
+<p align="center">　</p>
+<p align="center"><font face="BIZ UDPGothic">WhatsApp:+86 18922898289</font></p>
