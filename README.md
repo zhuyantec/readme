@@ -7,9 +7,9 @@ COMING SOON</font></p>
 <p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic"><br>
 Product</font></p>
-<p align="center"><font face="BIZ UDPGothic">Haier Electric Appliances&nbsp; | 
-Casarte Electric Appliances&nbsp; | Vighi Security Doors from Italy&nbsp; | 
-Nobilia Cabinet from Germany&nbsp; | Stainless steel cabinets</font></p>
+<p align="center"><font face="BIZ UDPGothic">Haier Electric Appliances | 
+Casarte Electric Appliances | Vighi Security Doors from Italy | 
+Nobilia Cabinet from Germany | Stainless steel cabinets from China</font></p>
 <p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">WhatsApp:+86 18922898289</font></p>
 
