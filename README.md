@@ -17,7 +17,7 @@ Product</font></p>
 <img border="0" src="README_files/csd.png" width="111" height="62"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Vighi Security Doors from Italy</font></p>
 <p align="center">
-<img width="115" height="48" alt="Vighi" src="https://github.com/user-attachments/assets/e84cdcaf-444e-4a1c-b1be-558df8f87dff" /><p align="center">　</p>
+<img border="0" src="README_files/Vighi.png" width="115" height="48"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Nobilia Cabinet from Germany</font></p>
 <p align="center">
 <img border="0" src="README_files/Nobilia_Logo.png" width="103" height="18"></p><p align="center">　</p>
