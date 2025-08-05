@@ -1,5 +1,5 @@
-<p align="center">　</p>
-<p align="center">　</p>
+<p align="center">
+<img border="0" src="README_files/2025LOGO.png" width="120" height="120"></p><p align="center">　</p>
 <p align="center"><b><font size="6" face="BIZ UDPGothic">SHENZHEN ZHUYAN 
 TECHNOLOGY CO.,LTD</font></b></p>
 <p align="center">　</p>
