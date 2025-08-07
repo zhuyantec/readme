@@ -1,7 +1,10 @@
+<head>
+   <meta charset="UTF-8">
+</head>
 <p align="center">
 <img border="0" src="README_files/2025LOGO.png" width="120" height="120"></p><p align="center">　</p>
-<p align="center"><b><font size="6" face="BIZ UDPGothic">SHENZHEN ZHUYAN 
-TECHNOLOGY CO.,LTD</font></b></p>
+<p align="center"><b><font size="6" face="BIZ UDPGothic">SHENZHEN ZHUYAN TECHNOLOGY CO.,LTD</font></b></p>
+<p align="center"><b><font size="6" face="黑体">深圳市筑岩科技有限公司</font></b></p>
 <p align="center">　</p>
 <p align="center"><font size="7" face="BIZ UDPGothic"><br>
 <b><font color="#FF0000">COMING SOON</font></b></font></p>
