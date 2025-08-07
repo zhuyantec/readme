@@ -14,15 +14,15 @@ Product</font></p>
 <img border="0" src="README_files/haier.png" width="101" height="28"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Casarte Electric Appliances</font></p>
 <p align="center">
-<img border="0" src="README_files/csd.png" width="111" height="62"></p><p align="center">　</p>
+<img border="0" src="README_files/csd.png" width="150" height="84"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Vighi Security Doors from Italy</font></p>
 <p align="center">
 <img border="0" src="README_files/Vighi.png" width="115" height="48"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Nobilia Cabinet from Germany</font></p>
 <p align="center">
-<img border="0" src="README_files/Nobilia_Logo.png" width="103" height="18"></p><p align="center">　</p>
+<img border="0" src="README_files/Nobilia_Logo.png" width="124" height="22"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Stainless steel cabinets from China</font></p>
 <p align="center">
-<img border="0" src="README_files/Kulitat_logo.png" width="100" height="21"></p><p align="center">　</p>
+<img border="0" src="README_files/Kulitat_logo.png" width="122" height="25"></p><p align="center">　</p>
 <p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">WhatsApp:+86 18922898289</font></p>
