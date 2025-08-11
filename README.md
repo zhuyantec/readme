@@ -24,7 +24,7 @@ Product</font></p>
 <p align="center"><font face="BIZ UDPGothic">Nobilia Cabinet from Germany</font></p>
 <p align="center">
 <img border="0" src="README_files/Nobilia.png" width="124" height="22"></p><p align="center">　</p>
-<p align="center"><font face="BIZ UDPGothic">Stainless steel cabinets from China</font></p>
+<p align="center"><font face="BIZ UDPGothic">Kulitat Stainless steel cabinets from China</font></p>
 <p align="center">
 <img border="0" src="README_files/Kulitat.png" width="149" height="42"></p><p align="center">　</p>
 <p align="center">　</p>
