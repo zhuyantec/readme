@@ -26,6 +26,6 @@ Product</font></p>
 <img border="0" src="README_files/Nobilia.png" width="124" height="22"></p><p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">Kulitat Stainless steel cabinets from China</font></p>
 <p align="center">
-<img border="0" src="README_files/Kulitat.png" width="149" height="42"></p><p align="center">　</p>
+<img border="0" src="README_files/kulitat.png" width="149" height="42"></p><p align="center">　</p>
 <p align="center">　</p>
 <p align="center"><font face="BIZ UDPGothic">WhatsApp:+86 18922898289</font></p>
